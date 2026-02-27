@@ -1,13 +1,13 @@
 # ros2_nvidia_isaac
 Native Install Isaac Sim + ROS 2 on Ubuntu 22.04 or Ubuntu 24.04
 
-**System Prerequisites**
+## System Prerequisites
 For a local/native setup, use a machine with:
 - Ubuntu 22.04 or Ubuntu 24.04
 - NVIDIA RTX 3050 or higher
 - More than 6 GB GPU VRAM
 
-**Download Isaac Sim using this link: **
+## Using this manual: https://docs.isaacsim.omniverse.nvidia.com/5.1.0/installation/quick-install.html, download Isaac Sim using this link:
 https://download.isaacsim.omniverse.nvidia.com/isaac-sim-standalone-5.1.0-linux-x86_64.zip
 
 After downloading, extract it:
